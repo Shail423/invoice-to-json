@@ -1,0 +1,19 @@
+
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: #fff;
+  padding: 1.5rem;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+pre {
+  background: #eee;
+  padding: 1rem;
+  margin-top: 1rem;
+  white-space: pre-wrap;
+}
